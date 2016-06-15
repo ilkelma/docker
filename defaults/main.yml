@@ -1,0 +1,5 @@
+---
+# defaults file for docker
+release: xenial
+arch: 64
+has_gui: false
